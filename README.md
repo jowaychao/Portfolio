@@ -11,7 +11,7 @@ This repository contains a collection of my data science projects. Each of the p
 
 ### [Analysis of Property Listings](https://github.com/jowaychao/Portfolio/tree/master/Analysis-of-Property-Listings)
 
-**Overview:** (In Progress) Investing in properties has long been perceived as a safe investment, but with prices for single family homes trending upwards for the 7th straight year, it can be difficult to find a worthwhile investment. This project analyzes the expected return on investment for properties in 5 metro areas. I scraped listing information such as property attributes, rental estimate, market value, tax information, appreciation.
+**Overview:** (In Progress) Buying properties has long been perceived as a safe investment, but with prices for single family homes trending upwards for the 7th straight year, it can be difficult to find a worthwhile investment. This project analyzes the expected return on investment for properties in 5 metro areas. I scraped listing information such as property attributes, rental estimate, market value, tax information, appreciation.
 
 **Skills:** Web Scraping, EDA, Visualizations                                                                                             
 **Toolkit:** Scraping: BeautifulSoup, Selenium  **/**  Visualizations: Matplotlib, Seaborn
